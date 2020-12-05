@@ -1,7 +1,7 @@
 # notebook-free-notebook
 ## A Jupyter dev env for coders
 
-When I started with Python's data stack I was impressed by Jupyter and notebooks but found notebooks quickly annoying (coming from a programming background). I finally found a great solution rather for coders than for data scientists used which I'd like to share:
+When I started with Python's data stack I was impressed by Jupyter and notebooks but found notebooks quickly annoying (coming from a programming background). I finally came to a great solution rather for coders than for data scientists:
 
 - VS Code as front-end but **not** with VS Code's built-in notebook viewer[1]
 - Instead I use **VS Code's Interactive Python Tab** which allows quick execution of one cell with `Ctrl-Enter` or all above cells
