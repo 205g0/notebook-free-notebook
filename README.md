@@ -18,7 +18,7 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) t
 
 Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following setup which is rather for coders and not for data scientists who are not familiar with traditional coding contexts/workflows. It is at the same time very simple but powerful and flexible like no other tooling:
 
-**More Features:**
+**Features detailed:**
 
 - VS Code as front-end but **not** with VS Code's built-in notebook viewer[1]
 - Instead I use **VS Code's Interactive Python Tab** which allows quick execution of one cell with `Ctrl-Enter` or all above cells
