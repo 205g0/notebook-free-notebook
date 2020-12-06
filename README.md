@@ -1,16 +1,18 @@
 # notebook-free-notebook
-## A Jupyter dev env *for coders*, free, no lock-ins, simple to setup
+## A Jupyter dev env *for coders*, free, no lock-ins, simple and no .ipynb
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) this post is not for you._
 
-When I started with Python's data stack I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). I finally came to a great solution rather for coders than for data scientists:
+![vscode.png](vscode.png)
+
+When I started with Python's data stack I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting to the right IDE was not easy because there many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following solution which is rather for coders than for data scientists:
 
 - VS Code as front-end but **not** with VS Code's built-in notebook viewer[1]
 - Instead I use **VS Code's Interactive Python Tab** which allows quick execution of one cell with `Ctrl-Enter` or all above cells
 - The Interactive Tab shows the cell outputs in **chronological order**
 - The **execute above cells** feature is quite handy, it's located at every cell and let you run the entire notebook till that button
-- **vim binds** via the vim plugin, not the nvim plugin yet, latter has still some issues with scrolling[2]
-- The Jupyter kernel runs on a beefy remote machine connected to VS Code
+- **vim binds** via the vim plugin[2]
+- The Jupyter kernel runs on a beefy remote machine (any kind of bare-metal TPU-based machine in the cloud, under you desk, etc.) connected to VS Code
 - **Images are rendered;** sounds like a minor thing but it's not, before I sent via vim-slime commands to a tmux tab with IPython which is a similar setup but I couldn't render images because it's in the terminal
 - Easy shareable and git-committable `.py` files which have all the notebook data in the convinient *percent format*
 - Any further shortcuts above the vim layer can be defined
