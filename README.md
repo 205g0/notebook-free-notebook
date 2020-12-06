@@ -1,7 +1,15 @@
 # notebook-free-notebook
-## A Jupyter dev env *for coders*, free, no lock-ins, simple and no .ipynb
+## A Jupyter dev env *for coders*
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) this post is not for you._
+
+**Key features:**
+- no .ipynb
+- no vendor lock-in
+- works with cloud or local TPUs out of the box
+- super, simple, no moving parts, just VS Code and a Jupyter kernel
+- optional vim binds
+- free
 
 ![vscode.png](vscode.png)
 
