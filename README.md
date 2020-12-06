@@ -1,5 +1,5 @@
 # notebook-free-notebook
-## A Jupyter dev env for coders, free, without lock-ins, simple to setup
+## A Jupyter dev env for coders, free, no lock-ins, simple to setup
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) this post is not for you._
 
