@@ -18,6 +18,10 @@ When I started with Python's data stack I was impressed by Jupyter and notebooks
 
 I found this setup painless, scalable and most important fluid. No manual back and forth between cells but one file of code with easy, instant navigation via vim binds. No cloud notebook vendor lock-in and a super simple setup.
 
+It is for teams (fully git-able and human-readable in contrast to the inferior .ipynb notebook format), scalable and in particular for non-trivial, larger projects because it clearly separates (one of the most flexible) frontends and TPUs without locking in the users into anything.
+
+Give a user 8x A100 and he does the entire dev setup in 5 minutes incl. OS installation of the TPU machines and it doesn't matter if the TPUs are in the cloud or under my desk haha, no lock-in nowhere. Or give this setup to my colleague and he will git clone my model 1:1 and run it within seconds on his new 3090. Or another colleague who prefers vim binds because it might be easier to explore/do his own experiments/navigate through huge code bases for hours. Or a data scientist who prefers the .ipynb format, one click and voilà, he can work in the notebook format. IDK of any other free IDE that allows such flexibility without any lock-in.
+
 [1] VS Code's built-in native `.ipynb` viewer is very good but it does not support any vim bind extension and I still think the notebook paradigm is not the right one. For learning and following tutorials in the beginning it's great but once you interact more than you read it slows you down.
 
 [2] vim binds have a steep and long learning curve but once you have the muscle memory you should be faster when dealing with code (different discussion but just to clarify)
