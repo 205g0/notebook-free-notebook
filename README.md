@@ -1,26 +1,28 @@
 # notebook-free-notebook
-## A Jupyter dev env *for coders*
+## A professional and lock-in-free \Jupyter dev env for coders, teams and non-trivial, large Jupyter projects
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) this post is not for you._
 
 **Key features:**
 - no .ipynb
 - no vendor lock-in
+- zero properietary tooling
 - works with cloud or local TPUs out of the box
-- super, simple, no moving parts, just VS Code and a Jupyter kernel
+- super simple, no moving parts, just VS Code and a Jupyter kernel
+- fast and easy setup
 - optional vim binds
 - free
 
 ![vscode.png](vscode.png)
 
-When I started with Python's data stack I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting to the right IDE was not easy because there many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following solution which is rather for coders than for data scientists:
+Initially, I was impress by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following solution which is rather for coders which is at the same time very simple but powerful and flexible:
 
 - VS Code as front-end but **not** with VS Code's built-in notebook viewer[1]
 - Instead I use **VS Code's Interactive Python Tab** which allows quick execution of one cell with `Ctrl-Enter` or all above cells
 - The Interactive Tab shows the cell outputs in **chronological order**
 - The **execute above cells** feature is quite handy, it's located at every cell and let you run the entire notebook till that button
-- **vim binds** via the vim plugin[2]
-- The Jupyter kernel runs on a beefy remote machine (any kind of bare-metal TPU-based machine in the cloud, under you desk, etc.) connected to VS Code
+- **vim binds** via the vim plugin[2]; fwiw, this setup is the only with proper vim binds next to Google's Colab
+- The Jupyter kernel runs on a beefy remote machine (any kind of bare-metal TPU-based machine in the cloud, under you desk, etc.) connected to VS Code; the Jupyter Notebook or Lab interface is not used
 - **Images are rendered;** sounds like a minor thing but it's not, before I sent via vim-slime commands to a tmux tab with IPython which is a similar setup but I couldn't render images because it's in the terminal
 - Easy shareable and git-committable `.py` files which have all the notebook data in the convinient *percent format*
 - Any further shortcuts above the vim layer can be defined
