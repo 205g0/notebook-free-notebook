@@ -16,7 +16,7 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) t
 
 ![vscode.png](vscode.png)
 
-Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following setup which is rather for coders and not for data scientists who are not familiar with traditional coding contexts/workflows. It is at the same time very simple but powerful and flexible like no other tooling:
+Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Finding the right IDE was not easy because the entire data science community is using .ipynb notebooks + many vendor-locked-in products lacking essential/typical dev features. I finally came to following setup which is rather for coders and not for data scientists who are not familiar with traditional coding contexts/workflows. It is at the same time very simple but powerful and flexible like no other tooling:
 
 **Features detailed:**
 
