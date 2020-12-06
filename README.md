@@ -11,11 +11,14 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) t
 - super simple, no moving parts, just VS Code and a Jupyter kernel
 - fast and easy setup
 - optional vim binds
+- not opioniated, you could still use .ipynb files
 - free
 
 ![vscode.png](vscode.png)
 
-Initially, I was impress by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following solution which is rather for coders which is at the same time very simple but powerful and flexible:
+Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following setup which is rather for coders which is at the same time very simple but powerful and flexible:
+
+**More Features:**
 
 - VS Code as front-end but **not** with VS Code's built-in notebook viewer[1]
 - Instead I use **VS Code's Interactive Python Tab** which allows quick execution of one cell with `Ctrl-Enter` or all above cells
@@ -28,11 +31,19 @@ Initially, I was impress by Jupyter and notebooks but found them quickly annoyin
 - Any further shortcuts above the vim layer can be defined
 - Free as in free lunch
 
+**Quick setup:**
+
+- Install VS Code on a client machine, miniconda and Jupyter on a beefy TPU machine or locally
+- Run Jupyter without using Jupyter Notebook nor Lab, copy the access url/token from the log
+- In VS Code open the Command Palette, eg. with F1 and search for _Jupyter: Specify local or remote Jupyter server for connections_, click on existing and add the token
+- Now import .ipynb files which will converted to .py in the percent formt or just start with some code
+- Use the given shortcuts, such as `Ctrl-Enter` for executing a cell or add you own shortcuts
+
 I found this setup painless, scalable and most important fluid. No manual back and forth between cells but one file of code with easy, instant navigation via vim binds. No cloud notebook vendor lock-in and a super simple setup.
 
 It is for teams (fully git-able and human-readable in contrast to .ipynb), scalable and in particular for non-trivial, larger projects because it clearly separates (one of the most flexible) frontends and TPUs without locking in the users into anything.
 
-Give a user 8x A100 and he does the entire dev setup in 5 minutes incl. OS installation of the TPU machines and it doesn't matter if the TPUs are in the cloud or under his desk haha, no lock-in nowhere. Or give this setup to a friend and he will git clone my model 1:1 and run it within seconds on his new 3090. Or another peer who prefers vim binds because it might be easier to explore/do his own experiments/navigate through huge code bases for hours. Or a data scientist who prefers the .ipynb format, one click and voilà, he can work in the notebook format. IDK of any other free IDE that allows such flexibility without any lock-in.
+Give a user 8x A100 and he does the entire dev setup in 5 minutes incl. OS installation of the TPU machines and it doesn't matter if the TPUs are in the cloud or under his desk haha, no lock-in nowhere. Or give this setup to a friend and he will git clone your model 1:1 and run it within seconds on his new 3090. Or another peer who prefers vim binds because it might be easier to explore/do his own experiments/navigate through huge code bases for hours. Or a data scientist who prefers the .ipynb format, one click and voilà, he can work in the notebook format. IDK of any other free IDE that allows such flexibility without any lock-in.
 
 [1] VS Code's built-in native `.ipynb` viewer is good but it does not support any vim bind extension and I still think the notebook paradigm is not the right one. For learning and following tutorials in the beginning it's great but once you interact more than you read it slows you down.
 
