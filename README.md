@@ -27,7 +27,7 @@ Initially, I was impressed by Jupyter and notebooks but found them quickly annoy
 - **vim binds** via the vim plugin[2]; fwiw, this setup is the only with proper vim binds next to Google's Colab
 - The Jupyter kernel runs on a beefy remote machine (any kind of bare-metal TPU-based machine in the cloud, under you desk, etc.) connected to VS Code; the Jupyter Notebook or Lab interface is not used
 - **Images are rendered;** sounds like a minor thing but it's not, before I sent via vim-slime commands to a tmux tab with IPython which is a similar setup but I couldn't render images because it's in the terminal
-- Easy shareable and git-committable `.py` files which have all the notebook data in the convinient *percent format*
+- Easy shareable, human-readable raw files and git-committable `.py` files which have all the notebook data in the convinient *percent format*
 - Any further shortcuts above the vim layer can be defined
 - Free as in free lunch
 
