@@ -37,7 +37,7 @@ Initially, I was impressed by Jupyter and notebooks but found them quickly annoy
 - Run Jupyter without using Jupyter Notebook nor Lab, copy the access url/token from the log
 - In VS Code open the Command Palette, eg. with F1 and search for _Jupyter: Specify local or remote Jupyter server for connections_, click on existing and add the token
 - Now import .ipynb files which will converted to .py in the percent formt or just start with some code
-- Use the given shortcuts, such as `Ctrl-Enter` for executing a cell or add you own shortcuts
+- Use the given shortcuts, such as `Ctrl-Enter` for executing a cell or add your own shortcuts
 
 I found this setup painless, scalable and most important fluid. No manual back and forth between cells but one file of code with easy, instant navigation via vim binds. No cloud notebook vendor lock-in and a super simple setup.
 
