@@ -16,7 +16,7 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) t
 
 ![vscode.png](vscode.png)
 
-Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following setup which is rather for coders which is at the same time very simple but powerful and flexible:
+Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Getting the right IDE was not easy because there're many vendor-locked-in products, most .ipynb-based and lacking essential/typical dev features. I finally came to following setup which is rather for coders and not data scientists. It is at the same time very simple but powerful and flexible like no other tooling:
 
 **More Features:**
 
@@ -44,6 +44,8 @@ I found this setup painless, scalable and most important fluid. No manual back a
 It is for teams (fully git-able and human-readable in contrast to .ipynb), scalable and in particular for non-trivial, larger projects because it clearly separates (one of the most flexible) frontends and TPUs without locking in the users into anything.
 
 Give a user 8x A100 and he does the entire dev setup in 5 minutes incl. OS installation of the TPU machines and it doesn't matter if the TPUs are in the cloud or under his desk haha, no lock-in nowhere. Or give this setup to a friend and he will git clone your model 1:1 and run it within seconds on his new 3090. Or another peer who prefers vim binds because it might be easier to explore/do his own experiments/navigate through huge code bases for hours. Or a data scientist who prefers the .ipynb format, one click and voilà, he can work in the notebook format. IDK of any other free IDE that allows such flexibility without any lock-in.
+
+You have ideas how to improve this setup, PRs are welcome!
 
 [1] VS Code's built-in native `.ipynb` viewer is good but it does not support any vim bind extension and I still think the notebook paradigm is not the right one. For learning and following tutorials in the beginning it's great but once you interact more than you read it slows you down.
 
