@@ -6,9 +6,9 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) t
 **Key features:**
 - no .ipynb, no notebooks
 - no vendor lock-in
-- zero properietary tooling, no evanglism, no new frameworks
+- zero properietary tooling, no evanglism, no nonsense, no new frameworks
 - works with cloud or local TPUs out of the box
-- super simple, no moving parts, just VS Code and a Jupyter kernel
+- super simple, no moving parts, just 2 patVS Code and a Jupyter kernel
 - fast and easy setup
 - optional vim binds
 - not opioniated, you could still use .ipynb files
