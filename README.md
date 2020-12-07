@@ -4,7 +4,7 @@
 
 To skip my click-baity marketing fluff scroll down to Quick Setup!
 
-![https://i.imgflip.com/4pcd27.jpg](https://i.imgflip.com/4pcd27.jpg)
+![Batman hits Robin meme](https://i.imgflip.com/4pceg8.jpg)
 
 #### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy shared GPUs from 2010, no courses, no monthly subscritions haha)
 
@@ -26,7 +26,7 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) o
 - **Not opioniated, you could still use .ipynb files**
 - **Free**
 
-![vscode.png](vscode.png)
+![VS Code in action screenshot](vscode.png)
 
 Initially, I was impressed by Jupyter and notebooks but found them quickly annoying (coming from a programming background). Finding the right IDE was not easy because the entire data science community is using .ipynb notebooks + many vendor-locked-in, pricey, slow products lacking essential/typical dev features. I finally came to following setup which is rather for coders and not for data scientists who are not familiar with traditional coding contexts/workflows. It is at the same time very simple but powerful and flexible like no other tooling:
 
