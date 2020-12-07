@@ -14,7 +14,7 @@ tl;dr never touch notebooks/.ipynb files afgain, use VS Code + the Jupyter kerne
 
 
 **Key features:**
-- **No .ipynb, no notebooks, planet's worst file format**
+- **No .ipynb, no notebooks or the planet's worst file format**
 - **Not for toy projects**
 - **No vendor lock-in**
 - **Zero properietary tooling, no evanglism, no nonsense, no new framework, no esoteric workflows**
