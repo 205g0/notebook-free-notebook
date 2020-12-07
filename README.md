@@ -3,7 +3,7 @@
 ### Minimal but fully-featured, no fluff, no nonsense, no .ipynb, free
 #### A 5-minute read and you're ready to go, this readme is just a readme and won't try to sell you anything
 
-_Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally before this post might not be for you._
+_Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you._
 
 **Key features:**
 - **No .ipynb, no notebooks**
