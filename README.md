@@ -1,6 +1,6 @@
 ⚠️ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you or offense you._
 
-# notebook-free-notebook 
+# Notebook-free Notebook 
 ## A professional, lock-in-free Jupyter dev env for coders, big teams and non-trivial, large Jupyter projects
 ### Minimal but fully-featured, no fluff, no nonsense, no docs, no .ipynb, free  🎅🏼  🎅🏼  🎅🏼 
 #### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy, shared, overpriced or capped "free" GPUs from 2010 in a fugly web dashboard, no courses, no consulting, no monthly subscritions haha)
