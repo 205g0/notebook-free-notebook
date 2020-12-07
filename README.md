@@ -1,4 +1,4 @@
-⚠️ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you or offense you._
+⚠️ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams this post might not be for you or offense you._
 
 # Notebook-free Notebook 
 ## A professional, lock-in-free Jupyter dev env for coders, big teams and non-trivial, large Jupyter projects
