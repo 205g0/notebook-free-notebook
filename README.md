@@ -12,7 +12,7 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) o
 - Works with large TPU farms or minimal local setups
 - Works with cloud or local TPUs out of the box
 - Super simple, no moving parts, just 2 parts—VS Code and a Jupyter kernel
-- No gatekeeper or arbitrageur between you and the TPUs
+- No gatekeeper or arbitrageur between you and the TPUs, get maximum speed at the lowest price
 - Fast and easy setup
 - Optional vim binds
 - Not opioniated, you could still use .ipynb files
