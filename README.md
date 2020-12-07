@@ -1,6 +1,6 @@
 # notebook-free-notebook
 ## A professional, lock-in-free Jupyter dev env for coders, teams and non-trivial, large Jupyter projects
-### Minimal but fully-featured, no fluff, no nonsense, no .ipynb
+### Minimal but fully-featured, no fluff, no nonsense, no .ipynb, free
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally before this post might not be for you._
 
