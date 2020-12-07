@@ -62,3 +62,5 @@ You have ideas how to improve this setup? PRs are welcome!
 [1] VS Code's built-in native `.ipynb` viewer is good but it does not support any vim bind extension and I still think the notebook paradigm is not the right one. For learning and following tutorials in the beginning it's great but once you interact more than you read it slows you down.
 
 [2] vim binds have a steep learning curve but once you have the muscle memory you should be faster when dealing with large code bases (different discussion but just to clarify my requirements in this regard)
+
+![Uno meme](https://i.imgflip.com/4pcetd.jpg)
