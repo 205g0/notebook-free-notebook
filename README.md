@@ -9,8 +9,10 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) o
 - No .ipynb, no notebooks
 - No vendor lock-in
 - Zero properietary tooling, no evanglism, no nonsense, no new framework, no esoteric workflows
+- Works with large TPU farms or minimal local setups
 - Works with cloud or local TPUs out of the box
 - Super simple, no moving parts, just 2 parts—VS Code and a Jupyter kernel
+- No gatekeeper or arbitrageur between you and the TPUs
 - Fast and easy setup
 - Optional vim binds
 - Not opioniated, you could still use .ipynb files
