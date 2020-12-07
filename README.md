@@ -1,3 +1,5 @@
+_Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you or offense you._
+
 # notebook-free-notebook 
 ## A professional, lock-in-free Jupyter dev env for coders, teams and non-trivial, large Jupyter projects
 ### Minimal but fully-featured, no fluff, no nonsense, no docs, no .ipynb, free  🎅🏼  🎅🏼  🎅🏼 
@@ -9,7 +11,7 @@ tl;dr never touch notebooks/.ipynb files afgain, use VS Code + the Jupyter kerne
 
 ![Batman hits Robin meme](https://i.imgflip.com/4pceg8.jpg)
 
-_Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you._
+
 
 **Key features:**
 - **No .ipynb, no notebooks, planet's worst file format**
