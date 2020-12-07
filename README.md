@@ -44,7 +44,7 @@ Initially, I was impressed by Jupyter and notebooks but found them quickly annoy
 - **Images are rendered;** sounds like a minor thing but it's not, before I sent via vim-slime commands to a tmux tab with IPython which is a similar setup but I couldn't render images because it's in the terminal
 - Easy shareable, human-readable raw files and git-committable `.py` files which have all the notebook data in the convinient *percent format*
 - Any further shortcuts above the vim layer can be defined
-- Since TPUs can be hosted anywhere with huge bandwidths, moving gbyte of data sets between source servers and your TPUs server is one scp command away at max speed and a piece of cake; you are not locked-in into any slow server structure from one provider
+- Since TPUs can be hosted anywhere with huge bandwidths, moving gbyte of data sets between source servers and your TPU servers is just one scp command away at max speed and a piece of cake; you are not locked-in into any slow server infrastructure from one provider
 - Free as in free lunch
 
 ### Quick Setup
