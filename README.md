@@ -10,7 +10,7 @@ To skip my click-baity marketing fluff scroll down to Quick Setup!
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you._
 
 **Key features:**
-- **No .ipynb, no notebooks**
+- **No .ipynb, no notebooks, planet's worst file format**
 - **Not for toy projects**
 - **No vendor lock-in**
 - **Zero properietary tooling, no evanglism, no nonsense, no new framework, no esoteric workflows**
