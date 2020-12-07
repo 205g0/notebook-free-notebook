@@ -5,6 +5,8 @@
 
 To skip my click-baity marketing fluff scroll down to Quick Setup!
 
+tl;dr never touch notebooks/.ipynb files afgain, use VS Code + the Jupyter kernel + .py scripts in the percent format and move on
+
 ![Batman hits Robin meme](https://i.imgflip.com/4pceg8.jpg)
 
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) or a data scientist who never coded professionally in teams before this post might not be for you._
