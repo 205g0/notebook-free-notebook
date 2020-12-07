@@ -2,6 +2,8 @@
 ## A professional, lock-in-free Jupyter dev env for coders, teams and non-trivial, large Jupyter projects
 ### Minimal but fully-featured, no fluff, no nonsense, no docs, no .ipynb, free  🎅🏼  🎅🏼  🎅🏼 
 
+To skip my click-baity marketing fluff scroll down to Quick Setup!
+
 ![https://i.imgflip.com/4pcd27.jpg](https://i.imgflip.com/4pcd27.jpg)
 
 #### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy shared GPUs from 2010, no courses, no monthly subscritions haha)
@@ -41,7 +43,7 @@ Initially, I was impressed by Jupyter and notebooks but found them quickly annoy
 - Any further shortcuts above the vim layer can be defined
 - Free as in free lunch
 
-**Quick setup:**
+### Quick Setup
 
 - Install VS Code on a client machine, miniconda and Jupyter on a beefy TPU machine or locally
 - Run Jupyter without using Jupyter Notebook nor Lab, copy the access url/token from the log
