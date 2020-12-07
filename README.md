@@ -4,15 +4,15 @@
 _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) this post is not for you._
 
 **Key features:**
-- no .ipynb, no notebooks
-- no vendor lock-in
-- zero properietary tooling, no evanglism, no nonsense, no new framework
-- works with cloud or local TPUs out of the box
-- super simple, no moving parts, just 2 parts—VS Code and a Jupyter kernel
-- fast and easy setup
-- optional vim binds
-- not opioniated, you could still use .ipynb files
-- free
+- No .ipynb, no notebooks
+- No vendor lock-in
+- Zero properietary tooling, no evanglism, no nonsense, no new framework
+- Works with cloud or local TPUs out of the box
+- Super simple, no moving parts, just 2 parts—VS Code and a Jupyter kernel
+- Fast and easy setup
+- Optional vim binds
+- Not opioniated, you could still use .ipynb files
+- Free
 
 ![vscode.png](vscode.png)
 
