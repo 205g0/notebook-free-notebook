@@ -7,11 +7,14 @@ _Disclaimer: If you think there is nothing wrong with notebooks (.ipynb files) o
 
 **Key features:**
 - No .ipynb, no notebooks
+- Not for toy projects
 - No vendor lock-in
 - Zero properietary tooling, no evanglism, no nonsense, no new framework, no esoteric workflows
 - Works with large TPU farms or minimal local setups
 - Works with cloud or local TPUs out of the box
 - Super simple, no moving parts, just 2 parts—VS Code and a Jupyter kernel
+- No gazillion pages of documentation
+- No fragile and complex setup
 - No gatekeeper or arbitrageur between you and the TPUs, get maximum speed at the lowest price
 - Fast and easy setup
 - Optional vim binds
