@@ -47,6 +47,8 @@ Initially, I was impressed by Jupyter and notebooks but found them quickly annoy
 - Since TPUs can be hosted anywhere with huge bandwidths, moving gbyte of data sets between source servers and your TPU servers is just one scp command away at max speed and a piece of cake; you are not locked-in into any slow server infrastructure from one provider
 - Free as in free lunch
 
+![Winnie Puuh meme](https://i.imgflip.com/4pcjke.jpg)
+
 ### Quick Setup
 
 - Install VS Code on a client machine, miniconda and Jupyter on a beefy TPU machine or locally
