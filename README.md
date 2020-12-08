@@ -65,7 +65,7 @@ Give a user 8x A100 and he does the entire dev setup in 5 minutes incl. OS insta
 
 You have ideas how to improve this setup? PRs are welcome!
 
-More on why notebooks might not be the right choice for professional developers: https://www.youtube.com/watch?v=7jiPeIFXb6U
+A must-watch on why notebooks might not be the right choice for professional developers: https://www.youtube.com/watch?v=7jiPeIFXb6U and the slides to this talk https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g3a428e2eb8_0_259
 
 [1] VS Code's built-in native `.ipynb` viewer is good but it does not support any vim bind extension and I still think the notebook paradigm is not the right one. For learning and following tutorials in the beginning it's great but once you interact more than you read it slows you down.
 
