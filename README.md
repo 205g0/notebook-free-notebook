@@ -3,7 +3,7 @@
 # Notebook-free Notebook 
 ## A professional, lock-in-free Jupyter dev env for coders, big teams and non-trivial, large Jupyter projects
 ### Minimal but fully-featured, no fluff, no nonsense, no docs, no .ipynb, free  🎅🏼  🎅🏼  🎅🏼 
-#### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy, shared, overpriced or capped "free" GPUs from 2010 in a fugly web dashboard, no courses, no consulting, no monthly subscritions haha)
+#### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy, shared, overpriced or capped "free" GPUs from 2010 in a fugly web dashboard, no books, no courses, no consulting, no monthly subscritions haha)
 
 To skip my click-baity marketing fluff scroll down to Quick Setup!
 
