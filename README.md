@@ -5,6 +5,8 @@
 ### Minimal but fully-featured, no fluff, no nonsense, no docs, no .ipynb, free  🎅🏼  🎅🏼  🎅🏼 
 #### This is a stupid-simple 5-minute read and you're ready to go, it's just a readme and won't try to sell you anything (no slow web IDE, not another modded Jupyter Notebook nor Lab, no laggy, shared, overpriced or capped "free" GPUs from 2010 in a fugly web dashboard, no books, no courses, no consulting, no monthly subscritions haha)
 
+![car dealer meme](https://i.imgflip.com/4q32dt.jpg)
+
 To skip my click-baity marketing fluff scroll down to Quick Setup!
 
 tl;dr never touch notebooks/.ipynb files again, use VS Code + VS Code's Interactive Python Tab + the Jupyter kernel + .py scripts in the percent format and move on
